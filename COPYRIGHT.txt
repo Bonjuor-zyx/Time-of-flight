@@ -1,0 +1,39 @@
+This folder contains the database described in the article:
+
+    DeepToF: Off-the-Shelf Real-Time Correction of Multipath Interference in Time-of-Flight Imaging
+    Julio Marco, Quercus Hernandez, Adolfo Muñoz, Yue Dong, Adrian Jarabo, Min H. Kim, Xin Tong, Diego Gutierrez
+    ACM Transactions on Graphics, Vol.36(6)
+  
+and generated with the rendering framework described in the article:
+
+    A Framework for Transient Rendering
+    Adrian Jarabo, Julio Marco, Adolfo Muñoz, Raul Buisan, Wojciech Jarosz, Diego Gutierrez
+    ACM Transactions on Graphics, Vol.33(6)
+
+
+    
+Copyright 2017 Julio Marco, Quercus Hernandez, Adolfo Muñoz, Yue Dong, Adrian Jarabo, Min H. Kim, Xin Tong, Diego Gutierrez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this database,
+to deal in the database without restriction, including without limitation the rights to use, 
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the database, and 
+to permit persons to whom the database is furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all copies or substantial 
+    portions of the database.
+
+    THE DATABASE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT 
+    LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+    IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+    WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+    DATABASE OR THE USE OR OTHER DEALINGS IN THE DATABASE.
+    
+    
+    The aformentioned articles shall be cited in any work using the database.
+
+
+    
+_______________________________________________________________________________________________________________________
+More information at http://webdiis.unizar.es/~juliom/pubs/2017SIGA-DeepToF/
+
+Zaragoza, February 2017
