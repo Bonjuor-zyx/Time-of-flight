@@ -12,4 +12,4 @@ First, run tfrecords.py to generate train.tfrecords and test.tfrecords. To gener
 change to tfrecords.py.
 Then, run tof_train.py and tof_eval.py to get the result.
 Here are two results:
-![First one](img/result1.png)
+![2](img/result2.png)
